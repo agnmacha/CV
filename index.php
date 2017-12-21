@@ -48,7 +48,7 @@
 	
   <p class="icon">
 	  <a href="cv.pdf"><i class="fa fa-user-circle"></i>CV</a>
-	  <a href="https://github.com/aguuguu"><i class="fa fa-github"></i>GitHub</a>
+	  <a href="https://github.com/agnmacha"><i class="fa fa-github"></i>GitHub</a>
       <a href="https://www.linkedin.com/in/agnieszka-macha%C5%82owska-01b84814a/"><i class="fa fa-linkedin-square"></i>Linkedin</a>
  </p>
 </div>

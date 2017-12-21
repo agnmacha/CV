@@ -8,7 +8,7 @@ font-family: 'Asap', sans-serif !important;
 #heading
 {
 	font-size: 60px;
-	font-family: 'Aladin', sans-serif;
+	font-family: 'Aladin', sans-serif !important;
 }
 
 p {
@@ -216,6 +216,11 @@ color: white;
 .mess
 {
 	font-size: 25px;
-	color:red;
+	color: #E3E3E3;
+	border: 2px solid #E3E3E3; 
+	background-color: #0099FF;
+	width: 100%;
+	border-radius: 15px;
+		
 	
 }
