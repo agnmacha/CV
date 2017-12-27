@@ -73,7 +73,7 @@
             <div class="col-sm-4 col-xs-12">
                <p class="skills">Narzędzia</p>
                <img class="image" src="img/visual.png" alt="Visual Studio" title="Visual Studio">
-               <img class="image" src="img/dw.ico" alt="Adobe Dreamweaver" title="Adobe Photoshop">	
+               <img class="image" src="img/dw.ico" alt="Adobe Dreamweaver" title="Adobe Dreamweaver">	
                <img class="image" src="img/ps.png" alt="Adobe Photoshop" title="Adobe Photoshop">	   
                <img class="image" src="img/inventor.png" alt="Autodesk Inventor" title="Autodesk Inventor">
                <img class="image" src="img/matlab.ico" alt="Matlab" title="Matlab">
