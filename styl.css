@@ -2,32 +2,29 @@
 /* CSS Document */
 *{
 	margin:0; 
-	padding:0;
+	padding:0;	
+}
+
+.title{
 	
+	font-size: 70px;
+	font-family: 'Aladin',  Cambria, Arial, sans-serif ;
+	margin-top: 65px;
 }
 
-
-body{
-		
-font-family: 'Asap', Cambria, Arial, sans-serif !important;
-    }  
-
-#heading
+.heading
 {
-	font-size: 60px;
-	font-family: 'Aladin',  Cambria, Arial, sans-serif !important;
+	background-color:#5289BF;
+	font-size: 28px;
+	color: white;
+	font-family: 'Comfortaa', Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
+
 
 p {
 	font-size: 18px;
   }
 
-h3{
-	background-color:#5289BF;		
-    font-size: 30px !important;
-	font-family: 'Arima Madurai', Cambria, Arial, sans-serif !important;
-	color: white !important;
-   }
 
 .icon{
 	margin-right: 35px;
@@ -55,8 +52,7 @@ a:active {
          } 
 
 .margin {
-	
-     margin: 100px 0 45px;
+	margin: 0 auto 25px;
         }
 
 .bg-1 { 
@@ -117,14 +113,11 @@ textarea {
 	  background-color: #DADADA
       }
 
-.navbar-nav  li a:hover {
-      color: #2291CF !important;
-  }	
-
 ul {
 	list-style-type : none;
 	font-size: 18px; 
    }
+
 
 .image {
 	width:100px;
