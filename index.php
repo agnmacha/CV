@@ -127,40 +127,45 @@
             </div>
          </div>
       </div>
-      <div  id="contactt" class="container-fluid bg-5 text-center">
-         <h3 class="margin heading">Kontakt</h3>
-         <br>
-         <div class="row">
-            <div class="col-md-4 col-sm-12 col-xs-12">
-               <p class="contact"><i class="fa fa-globe"></i> Gdańsk</p>
-               <p class="contact"><i class="fa fa-mobile"></i> Telefon: 789-276-323</p>
-               <p class="contact"><i class="fa fa-envelope"></i> E-mail: agnieszka.machalowska@gmail.com</p>
-            </div>
-            <div class="col-md-8 col-sm-12 col-xs-12">
-               <div class="row">
-                  <form id="contact" class="form-group" action="" method="post">
-                     <div class="col-md-6 col-sm-12 col-xs-12 form-group">
-                        <input class="form-control"  name="name" placeholder="Imie" type="text" required>
-                     </div>
-                     <div class="col-md-6 col-sm-12 col-xs-12form-group">
-                        <input class="form-control"  name="email" placeholder="E-mail" type="email" required>
-                     </div>
-                       <div class="col-md-12 col-sm-12 col-xs-12 form-group">
-                     <textarea class="form-control"  name="message" placeholder="Wiadomość" rows="5" required></textarea>
-                     <br>
-					  </div>
-                     <div class="row">
-                        <div class="col-md-12 form-group">
-                           <button class="btn pull-right" type="submit" name="submit" >Wyślij</button>
-                        </div>
-                     </div>
-                  </form>
-               </div>
-               <div class="mess"><?= $a ?></div>
-            </div>
-         </div>
-         <br>	
+      <div  id="contactt" class="container-fluid bg-5 text-center">	
+  <h3 class="margin">Kontakt</h3><br>
+  <div class="row">
+    <div class="col-md-4 col-sm-12 col-xs-12"> 
+     <p class="contact"><i class="fa fa-globe"></i> Gdańsk</p>
+     <p class="contact"><i class="fa fa-mobile"></i> Telefon: 789-276-323</p>
+     <p class="contact"><i class="fa fa-envelope"></i> E-mail: agnieszka.machalowska@gmail.com</p>
+    </div>
+	  
+    <div class="col-md-8 col-sm-12 col-xs-12">
+     <div class="row">
+      <form id="contact" class="form-group" action="" method="post">
+       <div class="col-md-6 col-sm-12 col-xs-12 form-group">
+		    
+        <input class="form-control"  name="name" placeholder="Imie" type="text" required>
+       </div>
+	   <div class="col-md-6 col-sm-12 col-xs-12form-group">
+		    
+        <input class="form-control"  name="email" placeholder="E-mail" type="email" required>
+       </div>
+	</form>
+	 </div>
+		  
+	 <textarea class="form-control"  name="message" placeholder="Wiadomość" rows="5" required></textarea>
+     <br>
+     <div class="row">
+      <div class="col-md-12 form-group">
+		 
+        <button class="btn pull-right" type="submit" name="submit" >Wyślij</button>
+       </div>
       </div>
+	  
+	
+ <div class="mess"><?= $a ?></div> 
+    </div>
+  </div>
+  <br>	
+	</div>
+	
       <footer class="container-fluid bg-6 text-center">
          <p>Copyright Agnieszka Machałowska</p>
       </footer>
