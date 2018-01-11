@@ -127,7 +127,7 @@
             </div>
          </div>
       </div>
-      <div  id="contactt" class="container-fluid bg-5 text-center">	
+  <div  id="contactt" class="container-fluid bg-5 text-center">	
   <h3 class="margin">Kontakt</h3><br>
   <div class="row">
     <div class="col-md-4 col-sm-12 col-xs-12"> 
@@ -160,7 +160,7 @@
       </div>
 	  
 	
- <div class="mess"><?= $a ?></div> 
+		 <div class="mess"><?= $a ?></div> 
     </div>
   </div>
   <br>	
