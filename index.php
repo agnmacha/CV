@@ -25,7 +25,7 @@
                <span class="icon-bar"></span>                      
                </button> 
             </div>
-            <div class="collapse navbar-collapse">
+            <div class="collapse navbar-collapse" id=myNavbar>
                <ul class="nav navbar-nav navbar-right">
                   <li><a href="index.html"><i class="fa fa-home"></i></a></li>
                   <li><a href="#education">Wykształcenie</a></li>
